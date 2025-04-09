@@ -99,4 +99,4 @@ Ensure these are valid grayscale images for accurate results.
 
 ## 🤓 Author
 
-Created by [Your Name] for Computer Vision course assignments.
+Created by Apoorv Sharma for Computer Vision course assignments.
